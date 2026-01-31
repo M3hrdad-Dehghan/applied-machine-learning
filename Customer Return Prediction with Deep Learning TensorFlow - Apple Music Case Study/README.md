@@ -32,18 +32,18 @@ Build a predictive machine learning model to estimate the likelihood of a custom
 
 ## ⚙️ Technical Approach
 
-◻ Framed the problem as a supervised **binary classification** task </br>
-◻ Data preprocessing with **NumPy** (feature selection, shuffling, label separation) </br>
-◻ Train / validation / test split for robust evaluation </br>
-◻ Feature scaling applied only on training data to prevent data leakage </br>
-◻ Designed a **deep neural network** using TensorFlow: </br>
+⭕ Framed the problem as a supervised **binary classification** task </br>
+⭕ Data preprocessing with **NumPy** (feature selection, shuffling, label separation) </br>
+⭕ Train / validation / test split for robust evaluation </br>
+⭕ Feature scaling applied only on training data to prevent data leakage </br>
+⭕ Designed a **deep neural network** using TensorFlow: </br>
   - Multiple dense layers
   - Activation functions
-  - Dropout and L2 regularization
-◻ Handled class imbalance using computed class weights </br>
-◻ Trained with **Adam optimizer** and binary cross-entropy loss </br>
-◻ Early stopping based on validation loss to prevent overfitting </br>
-◻ Final evaluation on unseen test data
+  - Dropout and L2 regularization </br>
+⭕ Handled class imbalance using computed class weights </br>
+⭕ Trained with **Adam optimizer** and binary cross-entropy loss </br>
+⭕ Early stopping based on validation loss to prevent overfitting </br>
+⭕ Final evaluation on unseen test data
 
 ---
 
