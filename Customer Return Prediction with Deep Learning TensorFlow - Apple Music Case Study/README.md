@@ -32,36 +32,32 @@ Build a predictive machine learning model to estimate the likelihood of a custom
 
 ## ⚙️ Technical Approach
 
-- 🧩 Framed the problem as a supervised **binary classification** task
-- 🧹 Data preprocessing with **NumPy** (feature selection, shuffling, label separation)
-- 🔀 Train / validation / test split for robust evaluation
-- 📐 Feature scaling applied only on training data to prevent data leakage
-- 🧠 Designed a **deep neural network** using TensorFlow:
+- ◻ Framed the problem as a supervised **binary classification** task
+- ◻ Data preprocessing with **NumPy** (feature selection, shuffling, label separation)
+- ◻ Train / validation / test split for robust evaluation
+- ◻ Feature scaling applied only on training data to prevent data leakage
+- ◻ Designed a **deep neural network** using TensorFlow:
   - Multiple dense layers
   - Activation functions
   - Dropout and L2 regularization
-- ⚖️ Handled class imbalance using computed class weights
-- 🚀 Trained with **Adam optimizer** and binary cross-entropy loss
-- ⏹ Early stopping based on validation loss to prevent overfitting
-- 🧪 Final evaluation on unseen test data
+- ◻ Handled class imbalance using computed class weights
+- ◻ Trained with **Adam optimizer** and binary cross-entropy loss
+- ◻ Early stopping based on validation loss to prevent overfitting
+- ◻ Final evaluation on unseen test data
 
 ---
 
 ## 🛠 Key Skills Demonstrated
 
-- 📈 Customer retention & churn problem framing
-- 🤖 End-to-end machine learning pipeline development
-- ⚖️ Handling imbalanced classification problems
-- 🧠 Deep learning regularization & optimization
-- 🧪 Data leakage prevention & proper evaluation
-- 💡 Translating ML results into actionable business insights
+- ✅ Customer retention & churn problem framing
+- ✅ End-to-end machine learning pipeline development
+- ✅ Handling imbalanced classification problems
+- ✅ Deep learning regularization & optimization
+- ✅ Data leakage prevention & proper evaluation
+- ✅ Translating ML results into actionable business insights
 
 ---
 
-## 🔗 Useful Links
-
-- 💻 **GitHub Repository:**  
-  https://shorturl.at/qWQjN
-
-- 🎥 **YouTube Walkthrough:**  
+## 🎥 YouTube Walkthrough
+ 
   https://youtu.be/mWAR-6zcoTU
