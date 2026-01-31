@@ -1,52 +1,56 @@
-## About the Project
+<div align="center">
+  <h1>
+    Applied Machine Learning Project: Predicting Used Car Prices with Python
+  </h1>
+</div>
 
-In this video, we’ll walk through an end-to-end machine learning project, from business understanding to deployment! We’ll build a secondhand car price predictor using Python, Flask, and machine learning models. You’ll see how to preprocess data, train models, and turn them into a functional web application. 
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Regression-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Models-Tree--Based%20Ensembles-lightblue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Application-End--to--End%20ML-success?style=flat-square"/>
+</p>
 
-[![Watch Video of the Project](https://img.shields.io/badge/YouTube-Watch_Video-red)](https://www.youtube.com/watch?v=RlbUyfibVYk)
-[![ML Application](https://img.shields.io/badge/ML_Application-Visit-green)](https://mehrdad-car-price-predictor.onrender.com) 
+---
 
-## Project's Sections
+## 🧠 Business Problem
 
-- introduction & workflow of project
-- Demo of the project
-- Explain the project structure
-- See dataset
-- Data cleaning steps
-- Descriptive Data Analysis
-- Correlation Analysis
-- Data preprocessing
-- Data Splitting
-- Model Training
-- Model Tunning
-- Model Evaluation
-- Model Testing
-- Build Application
-- Model Deployment
+Accurately estimating car market prices is essential for buyers and sellers to make informed decisions and avoid under- or over-pricing in a competitive market. 
 
-## Languages / Tools
+---
 
-- Python
-- JavaScript
-- HTML
-- VS Code
-- Flask
+## 🎯 Objective 
 
-## Clone to Repository
+The objective of this project was to build a robust regression-based machine learning system that predicts car prices based on vehicle attributes and historical market data.
 
-```HTTP
-git clone https://github.com/M3hrdad-Dehghan/Deploy_ML_Car_Price_Predictor.git
-```
+---
 
-```SSH
-git@github.com:M3hrdad-Dehghan/Deploy_ML_Car_Price_Predictor.git
-```
+## 📊 Data & Inputs
 
-```CLI
-gh repo clone M3hrdad-Dehghan/Deploy_ML_Car_Price_Predictor
-```
+- Historical car listings including price, model, brand, year, mileage, fuel type, and other vehicle attributes
+- Structured tabular data used for supervised learning
+- User-provided inputs collected through an interactive application interface
 
-## Contact
+---
 
-- [![Follow me on Linkedin  ](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mehrdad-dehghan)
-- [![Watch my other videos  ](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/@Mer_Dehghan)
-- [![Contact with me  ](https://img.shields.io/badge/Gmail-Mail-red)](mailto:Mansourdehghan.Mehrdad@gmail.com)
+## ⚙️ Technical Approach
+
+- Performed data cleaning, exploratory data analysis, and feature engineering to prepare high-quality inputs for modeling
+- Built and tuned multiple regression models (e.g., Random Forest, Gradient Boosting) and compared performance using appropriate evaluation metrics
+- Designed a reliable preprocessing and inference pipeline to ensure consistency between training and production
+- Deployed the trained model as an interactive application, enabling real-time price predictions
+
+---
+
+## 🛠 Key Skills Demonstrated
+
+- Regression modeling and supervised machine learning
+- Feature engineering and model evaluation
+- End-to-end ML pipelines (training to inference)
+-	Model deployment and user-facing ML applications
+- Translating predictive models into real-world decision tools
+
+---
+
+## 🎥 YouTube Walkthrough
+ 
+•	https://youtu.be/RlbUyfibVYk
