@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 Business Problem & Objective
+## 🧠 Business Problem
 
 Accurately forecasting taxi demand is critical for optimizing fleet allocation, reducing wait times, and improving operational efficiency in urban transportation systems. 
 
