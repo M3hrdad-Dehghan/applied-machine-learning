@@ -1,4 +1,4 @@
-## 🌟 **Apple Music Subscription Renewal Prediction**
+# 🌟 **Apple Music Subscription Renewal Prediction**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Classification-blue?style=flat-square"/>
