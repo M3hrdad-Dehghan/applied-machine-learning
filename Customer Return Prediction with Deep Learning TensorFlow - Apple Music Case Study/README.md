@@ -1,9 +1,9 @@
 ## 🌟 **Apple Music Subscription Renewal Prediction**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Classification-blue?style=flat-square"/> </br>
-  <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-lightblue?style=flat-square"/> </br>
-  <img src="https://img.shields.io/badge/Domain-Customer%20Retention-success?style=flat-square"/> </br>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Classification-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-lightblue?style=flat-square"/> 
+  <img src="https://img.shields.io/badge/Domain-Customer%20Retention-success?style=flat-square"/>
 </p>
 
 ---
