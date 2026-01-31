@@ -64,6 +64,4 @@ Build a predictive machine learning model to estimate the likelihood of a custom
 
 ## 🎥 YouTube Walkthrough
  
-<a href="https://youtu.be/mWAR-6zcoTU" target="_blank">
-  Project Walkthrough (Video)
-</a>
+[🎥 Project Walkthrough (Video)](https://youtu.be/mWAR-6zcoTU)
