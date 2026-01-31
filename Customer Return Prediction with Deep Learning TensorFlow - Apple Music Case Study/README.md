@@ -22,28 +22,28 @@ Build a predictive machine learning model to estimate the likelihood of a custom
 
 ## 📊 Data & Inputs
 
-- 🎧 User listening behavior (total & average listening minutes)
-- 💳 Purchase features (total & average spending)
-- ⭐ Engagement signals (ratings, reviews, support tickets)
-- ⏱ Customer lifetime (days since first usage)
-- 🎯 Binary target variable indicating subscription renewal
+🎧 User listening behavior (total & average listening minutes) </br>
+💳 Purchase features (total & average spending) </br>
+⭐ Engagement signals (ratings, reviews, support tickets) </br>
+⏱ Customer lifetime (days since first usage) </br>
+🎯 Binary target variable indicating subscription renewal
 
 ---
 
 ## ⚙️ Technical Approach
 
-- ◻ Framed the problem as a supervised **binary classification** task
-- ◻ Data preprocessing with **NumPy** (feature selection, shuffling, label separation)
-- ◻ Train / validation / test split for robust evaluation
-- ◻ Feature scaling applied only on training data to prevent data leakage
-- ◻ Designed a **deep neural network** using TensorFlow:
+◻ Framed the problem as a supervised **binary classification** task </br>
+◻ Data preprocessing with **NumPy** (feature selection, shuffling, label separation) </br>
+◻ Train / validation / test split for robust evaluation </br>
+◻ Feature scaling applied only on training data to prevent data leakage </br>
+◻ Designed a **deep neural network** using TensorFlow: </br>
   - Multiple dense layers
   - Activation functions
   - Dropout and L2 regularization
-- ◻ Handled class imbalance using computed class weights
-- ◻ Trained with **Adam optimizer** and binary cross-entropy loss
-- ◻ Early stopping based on validation loss to prevent overfitting
-- ◻ Final evaluation on unseen test data
+◻ Handled class imbalance using computed class weights </br>
+◻ Trained with **Adam optimizer** and binary cross-entropy loss </br>
+◻ Early stopping based on validation loss to prevent overfitting </br>
+◻ Final evaluation on unseen test data
 
 ---
 
