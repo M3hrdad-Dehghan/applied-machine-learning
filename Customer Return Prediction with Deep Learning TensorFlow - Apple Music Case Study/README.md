@@ -49,12 +49,12 @@ Build a predictive machine learning model to estimate the likelihood of a custom
 
 ## 🛠 Key Skills Demonstrated
 
-- ✅ Customer retention & churn problem framing
-- ✅ End-to-end machine learning pipeline development
-- ✅ Handling imbalanced classification problems
-- ✅ Deep learning regularization & optimization
-- ✅ Data leakage prevention & proper evaluation
-- ✅ Translating ML results into actionable business insights
+✅ Customer retention & churn problem framing </br>
+✅ End-to-end machine learning pipeline development </br>
+✅ Handling imbalanced classification problems </br>
+✅ Deep learning regularization & optimization </br>
+✅ Data leakage prevention & proper evaluation </br>
+✅ Translating ML results into actionable business insights
 
 ---
 
