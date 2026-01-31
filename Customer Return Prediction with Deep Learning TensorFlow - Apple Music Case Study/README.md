@@ -1,10 +1,5 @@
-<div align="center" style="
-  background-color:#1e1e1e;
-  border-radius:12px;
-  padding:20px;
-  margin-bottom:20px;
-">
-  <h1 style="margin:0;">
+<div align="center">
+  <h1>
     🌟 Customer Return Prediction with Deep Learning (TensorFlow)
   </h1>
 </div>
