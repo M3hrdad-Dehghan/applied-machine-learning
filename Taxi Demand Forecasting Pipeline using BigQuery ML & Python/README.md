@@ -53,5 +53,5 @@ The objective of this project was to build a scalable, data-driven forecasting s
 
 ## 🎥 YouTube Walkthrough
  
-https://youtu.be/WaOvncMRgHE
+https://youtu.be/WaOvncMRgHE </br>
 https://youtu.be/hRq1fIT-oVo
