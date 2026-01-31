@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 Business Problem & Objective
+## 🧠 Business Problem
 
 In subscription-based digital platforms like **Apple Music**, customer retention is a critical driver of long-term revenue.  
 While many users subscribe at least once, only a small portion return to renew their subscription.
