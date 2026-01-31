@@ -36,10 +36,7 @@ Build a predictive machine learning model to estimate the likelihood of a custom
 ⭕ Data preprocessing with **NumPy** (feature selection, shuffling, label separation) </br>
 ⭕ Train / validation / test split for robust evaluation </br>
 ⭕ Feature scaling applied only on training data to prevent data leakage </br>
-⭕ Designed a **deep neural network** using TensorFlow: </br>
-  - Multiple dense layers
-  - Activation functions
-  - Dropout and L2 regularization </br>
+⭕ Designed a **deep neural network** using TensorFlow: Multiple dense layers / Activation functions / Dropout and L2 regularization </br>
 ⭕ Handled class imbalance using computed class weights </br>
 ⭕ Trained with **Adam optimizer** and binary cross-entropy loss </br>
 ⭕ Early stopping based on validation loss to prevent overfitting </br>
