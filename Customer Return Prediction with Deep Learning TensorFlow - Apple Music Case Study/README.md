@@ -29,36 +29,36 @@ Build a predictive machine learning model to estimate the likelihood of a custom
 
 ## 📊 Data & Inputs
 
-🎧 User listening behavior (total & average listening minutes) </br>
-💳 Purchase features (total & average spending) </br>
-⭐ Engagement signals (ratings, reviews, support tickets) </br>
-⏱ Customer lifetime (days since first usage) </br>
-🎯 Binary target variable indicating subscription renewal
+- User listening behavior (total & average listening minutes) </br>
+- Purchase features (total & average spending) </br>
+- Engagement signals (ratings, reviews, support tickets) </br>
+- Customer lifetime (days since first usage) </br>
+- Binary target variable indicating subscription renewal
 
 ---
 
 ## ⚙️ Technical Approach
 
-⭕ Framed the problem as a supervised **binary classification** task </br>
-⭕ Data preprocessing with **NumPy** (feature selection, shuffling, label separation) </br>
-⭕ Train / validation / test split for robust evaluation </br>
-⭕ Feature scaling applied only on training data to prevent data leakage </br>
-⭕ Designed a **deep neural network** using TensorFlow: Multiple dense layers / Activation functions / Dropout and L2 regularization </br>
-⭕ Handled class imbalance using computed class weights </br>
-⭕ Trained with **Adam optimizer** and binary cross-entropy loss </br>
-⭕ Early stopping based on validation loss to prevent overfitting </br>
-⭕ Final evaluation on unseen test data
+- Framed the problem as a supervised **binary classification** task </br>
+- Data preprocessing with **NumPy** (feature selection, shuffling, label separation) </br>
+- Train / validation / test split for robust evaluation </br>
+- Feature scaling applied only on training data to prevent data leakage </br>
+- Designed a **deep neural network** using TensorFlow: Multiple dense layers / Activation functions / Dropout and L2 regularization </br>
+- Handled class imbalance using computed class weights </br>
+- Trained with **Adam optimizer** and binary cross-entropy loss </br>
+- Early stopping based on validation loss to prevent overfitting </br>
+- Final evaluation on unseen test data
 
 ---
 
 ## 🛠 Key Skills Demonstrated
 
-✅ Customer retention & churn problem framing </br>
-✅ End-to-end machine learning pipeline development </br>
-✅ Handling imbalanced classification problems </br>
-✅ Deep learning regularization & optimization </br>
-✅ Data leakage prevention & proper evaluation </br>
-✅ Translating ML results into actionable business insights
+- Customer retention & churn problem framing </br>
+- End-to-end machine learning pipeline development </br>
+- Handling imbalanced classification problems </br>
+- Deep learning regularization & optimization </br>
+- Data leakage prevention & proper evaluation </br>
+- Translating ML results into actionable business insights
 
 ---
 
