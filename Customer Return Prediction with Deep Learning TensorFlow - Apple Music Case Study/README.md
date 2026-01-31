@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    🌟 Customer Return Prediction with Deep Learning (TensorFlow)
+    Customer Return Prediction with Deep Learning (TensorFlow)
   </h1>
 </div>
 
