@@ -15,7 +15,10 @@ While many users subscribe at least once, only a small portion return to renew t
 
 Unfocused marketing campaigns targeting low-probability users lead to wasted advertising spend and inefficient resource allocation.
 
-🎯 **Objective:**  
+---
+
+## 🎯 Objective 
+
 Build a predictive machine learning model to estimate the likelihood of a customer renewing their subscription and enable targeted retention strategies.
 
 ---
